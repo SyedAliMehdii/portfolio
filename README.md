@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-A clean, modern, and fully responsive personal portfolio website showcasing my skills, projects, and experience as a Generative AI Specialist. 
+A clean, modern, and fully responsive personal portfolio website showcasing my skills, projects, and experience as an AI / ML Engineer. 
 
 ## Features
 - **Modern UI/UX**: Designed with a sleek, dark-themed aesthetic and glassmorphism elements.
