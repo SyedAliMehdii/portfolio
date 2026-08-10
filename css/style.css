@@ -985,7 +985,7 @@ body {
   color: var(--bg-primary);
 }
 
-.project-links .project-link.demo {
+.project-links .project-link.github {
   flex: 1;
   justify-content: center;
 }
