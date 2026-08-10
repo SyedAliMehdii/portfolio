@@ -1180,6 +1180,8 @@ body {
   .hero-buttons .btn {
     width: 100%;
     max-width: 250px;
+    text-align: center;
+    justify-content: center;
   }
 
   .hero-name {
