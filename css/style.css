@@ -1166,10 +1166,20 @@ body {
   }
 
   .hero-tags,
-  .hero-buttons,
   .hero-socials,
   .about-stats {
     justify-content: center;
+  }
+
+  .hero-buttons {
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .hero-buttons .btn {
+    width: 100%;
+    max-width: 250px;
   }
 
   .hero-name {
