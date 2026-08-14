@@ -896,7 +896,7 @@ body {
 
 .project-image {
   width: 100%;
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 3 / 2;
   overflow: hidden;
   border-bottom: 1px solid var(--border-subtle);
 }
