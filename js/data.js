@@ -11,13 +11,13 @@ const experienceData = [
     role: "Backend AI Engineer - Intern",
     company: "FlyRank AI",
     duration: "Aug 2026 - Present",
-    description: "Developing scalable backend AI architectures and integrating intelligent agentic workflows to optimize production-level deployments."
+    description: "Developing Python backend services and REST APIs for generative AI applications, while integrating multi-agent workflows to build and support robust AI-driven tools."
   },
   {
     role: "Artificial Intelligence Intern",
     company: "Decodelabs",
     duration: "Jul 2026 - Aug 2026",
-    description: "Engineered automated ML pipelines across 10+ variables and benchmarked baseline classification models, achieving over 82% peak accuracy."
+    description: "Built automated ML pipelines across 10+ features, developed a modular conversational AI engine, and benchmarked classification models achieving over 82% peak accuracy."
   }
 ];
 
@@ -25,19 +25,19 @@ const experienceData = [
 const skillsData = [
   // Core Languages & Data Analysis
   { name: "Python", level: 85 },
-  { name: "Pandas", level: 90 },
+  { name: "Pandas", level: 88 },
   { name: "Scikit-Learn", level: 80 },
 
   // Generative AI & Agentic Frameworks
   { name: "RAG / LLMs", level: 80 },
   { name: "LangChain", level: 80 },
   { name: "LangGraph", level: 68 },
-  { name: "CrewAI", level: 75 },
+  { name: "CrewAI", level: 70 },
   { name: "n8n", level: 90 },
 
   // Backend, Cloud & DevOps
   { name: "FastAPI", level: 70 },
-  { name: "Azure AI", level: 70 },
+  { name: "Azure AI", level: 65 },
   { name: "Git & Github", level: 85 },
   { name: "Docker", level: 65 }
 ];
@@ -49,10 +49,10 @@ const projectsData = [
   {
     id: 1,
     title: "Github Repo Multi Agent Bug Fixer",
-    description: "Multi-agent system powered by CrewAI and Google Gemini to audit github repos, patch bugs, and submit PRs.",
+    description: "Multi-agent system powered by CrewAI and Google Gemini that audits github repos, patches bugs, and submit PRs automatically.",
     category: "agentic-ai",
     tags: ["CrewAI", "Gemini", "Multi-Agent", "Streamlit"],
-    image: "https://drive.google.com/file/d/1pftS8RVpAoXYOXZvooBBQzdscMQoILQG/view?usp=drive_link",
+    image: "assets/project-images/github-repo-multi-agent-bug-fixer.png",
     github: "https://github.com/SyedAliMehdii/Github-Repo-Multi-Agent-Bug-Fixer",
     demo: "https://git-repo-bug-fixer.streamlit.app/",
     date: "2026-07-02"
