@@ -481,7 +481,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const targetElement = document.querySelector(targetId);
       if (targetElement) {
         e.preventDefault(); // Prevent default anchor click behavior (which adds # to URL)
-        
+
         // Use smooth scrolling to the section
         targetElement.scrollIntoView({
           behavior: 'smooth'
